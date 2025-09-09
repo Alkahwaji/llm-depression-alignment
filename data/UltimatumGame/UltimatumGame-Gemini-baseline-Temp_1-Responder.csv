@@ -1,0 +1,232 @@
+Model,Responses
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$50]**. 
+
+**Reasoning:**
+
+*   If I accept any offer of $50 or more, I am guaranteed to receive at least $50, which is a positive outcome. 
+*   If I reject any offer, I receive $0, which is worse than receiving $50.
+*   Therefore, accepting any offer of $50 or more is always in my best interest, while accepting anything less would be irrational as it would result in a smaller gain than possible. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   **Any positive amount is better than nothing:** Since rejecting the offer results in both players receiving $0, accepting any offer greater than $0 guarantees me a positive payoff. 
+*   **Rationality of the Proposer:**  A rational Proposer, knowing my incentive, would offer the smallest possible amount to maximize their own gain while ensuring my acceptance. 
+
+Therefore, I would accept any offer of $1 or more, making **[$1]** the minimal acceptable amount. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any offer that gives me at least **[$1]**. 
+
+**Reasoning:**
+
+*   If I reject any offer, both the Proposer and I receive $0.
+*   Accepting any offer above $0 guarantees me a positive amount, which is better than receiving nothing. 
+*   Therefore, the minimum acceptable offer is $1. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is [$1]. 
+
+This is because any offer above $0 would be better than receiving nothing, which would be the outcome if I reject the offer. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any amount greater than $0, I will receive a positive payoff. 
+*   If I reject any offer, I receive $0. 
+*   Therefore, any positive amount is preferable to $0, making $1 the minimum acceptable amount. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimum amount I would accept in the proposal is **[$50]**. 
+
+Here's my reasoning:
+
+*   If I accept any amount **less than $50**, I would be getting less than half of the total $100, while the Proposer would be getting more. This would be an unfair division from my perspective.
+*   If the Proposer offers **$50 or more**, it ensures a fair distribution where both of us receive an equal or greater share of the total amount. Accepting such a proposal would be in my best interest.
+*   Rejecting any offer would result in both of us receiving nothing, which is the worst possible outcome.
+
+Therefore, accepting any proposal with **$50 or more** guarantees me a fair share and avoids the undesirable outcome of receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   Any amount greater than $0 is preferable to receiving $0 (which would be the outcome if I reject the offer). 
+*   Therefore, accepting the smallest possible non-zero offer ensures I receive some benefit. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder in this game, the minimal amount I would accept in the proposal is [$1].
+
+**Reasoning:**
+
+*   **Any positive amount is better than nothing:** Since rejecting the offer results in both players receiving $0, accepting any positive amount, even $1, guarantees me a better outcome. 
+*   **Rationality of the Proposer:**  The Proposer, knowing my incentive to accept any positive amount, would rationally offer the smallest possible amount to maximize their own gain. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any proposal that offers me at least **[$1]**. 
+
+Here's my reasoning:
+
+*   If I reject the offer, we both get $0. 
+*   Any amount greater than $0 is better than nothing. 
+*   Therefore, the minimum I would accept is $1, as it ensures I receive some benefit from the interaction. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimum amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   Any offer above $0 benefits me more than rejecting and receiving nothing. 
+*   While I would prefer a larger share, accepting $1 guarantees a positive outcome rather than risking $0 with a rejection. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any proposal that offers me at least **[$1]**. 
+
+**Reasoning:**
+
+*   If I reject any offer, both of us get nothing. 
+*   Therefore, any amount greater than zero is better than nothing. 
+*   Thus, the minimum acceptable offer is **[$1]**. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any proposal that offers me at least **[$1]**. 
+
+Here's my reasoning:
+
+*   If I reject the offer, we both get $0. 
+*   Any amount greater than $0 is an improvement over receiving nothing. 
+*   Therefore, the minimum acceptable offer for me is **[$1]**. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any proposal that offers me at least [$0]. 
+
+**Reasoning:**
+
+*   If I reject any offer, we both get nothing. 
+*   Therefore, any positive amount is better than nothing. 
+*   So, the minimum acceptable offer is [$0]. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any proposal that offers me at least [$1]. 
+
+This is because anything less than $1 would leave me with less money than I would get if I rejected the offer (which would result in both of us getting $0). 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder in this two-player game, the minimum amount I would accept in the proposal is **[$50]**. 
+
+**Reasoning:**
+
+*   If I accept any amount **less than $50**, I would be receiving less than half of the total $100, while the Proposer would be getting more. 
+*   Since any rejected proposal results in both players receiving $0, it's in my best interest to accept an offer that guarantees me at least half of the total amount, ensuring I don't end up with nothing.
+*   Accepting $50 ensures a fair and equal division of the $100. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money, which is better than receiving $0 if I reject the offer. 
+*   Even though a 50-50 split would be fairer, I have no guarantee the Proposer would offer that. Accepting any positive amount ensures I receive some reward. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder in this two-player game, the minimal amount I would accept in the proposal is **[$50]**. 
+
+**Reasoning:**
+
+*   If I accept any amount **less than $50**, I would be worse off than the Proposer. 
+*   Accepting **$50** ensures a fair and equal division of the $100.
+*   Rejecting any offer **above $50** would result in both players receiving nothing, which is not a rational choice as I would be forgoing a guaranteed positive outcome. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any offer that gives me a non-zero amount. Therefore, the minimum amount I would accept in the proposal is **[$1]**. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder in this two-player game, the minimal amount I would accept in the proposal is **[$50]**. 
+
+**Reasoning:**
+
+*  If I demand more than $50, the Proposer might reject the offer as they would also receive less than $50. 
+*  Accepting $50 ensures I receive a fair share of the $100, and it's likely the Proposer will also find this acceptable as it provides them with an equal amount.
+*  Rejecting any offer below $50 would result in both of us receiving nothing, which is a less desirable outcome. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder in this two-player game, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any amount greater than $0, I receive a positive payoff. 
+*   If I reject any offer, I receive $0. 
+*   Therefore, accepting any positive offer is preferable to rejecting and receiving nothing. 
+*   Since the minimum possible positive offer is $1, that is the minimum I would accept. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money. 
+*   If I reject any offer, I receive $0. 
+*   Therefore, accepting any positive amount is preferable to rejecting and receiving nothing. 
+*   Since the goal is to identify the minimum acceptable amount, $1 is the logical choice. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money. 
+*   If I reject any offer, I receive $0. 
+*   Therefore, any positive amount is preferable to receiving nothing.
+
+Since the goal is to maximize my earnings, accepting any offer greater than $0 is rational. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$50]**. 
+
+**Reasoning:**
+
+*   If I accept any amount **less than $50**, I would be getting less than half of the total sum, while the Proposer enjoys more than half. This would be an unfair division, considering we both have equal power in this situation (I can reject any proposal I deem unfair).
+*   Accepting **$50** ensures a fair and equal split of the $100, reflecting the equal power dynamic in the game. 
+*   While rejecting any offer below $50 might lead to a better offer from the Proposer, it also carries the risk of the Proposer sticking to their initial offer or even lowering it further, potentially resulting in both of us receiving nothing. 
+*   Therefore, accepting **[$50]** guarantees a reasonable outcome while avoiding unnecessary risk. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimum amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money, which is better than receiving nothing. 
+*   If I reject any offer, we both receive nothing, which is the worst possible outcome for me. 
+*   Therefore, accepting any offer of $1 or more is a rational decision. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimum amount I would accept in the proposal is **[$50]**. 
+
+Here's my reasoning:
+
+*   If I accept any offer of $50 or more, I am guaranteed to receive at least $50. 
+*   If I reject an offer of less than $50, we both receive nothing, which is worse than receiving $50. 
+*   Therefore, accepting $50 or more is always the better option for me. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is [$1].
+
+**Reasoning:** 
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money. 
+*   If I reject any offer, I receive $0. 
+*   Therefore, accepting any offer of $1 or more is preferable to rejecting it. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, I would accept any offer that gives me at least [$1]. 
+
+**Reasoning:**
+
+*   If I reject an offer, I receive $0. 
+*   Therefore, any positive amount is better than receiving nothing. 
+*   Accepting the minimal offer ensures I receive some reward, while still allowing the Proposer a significant portion. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money. 
+*   If I reject any offer, I receive $0.
+*   Therefore, accepting any offer of $1 or more is preferable to rejecting and receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder in this two-player game, the minimum amount I would accept in the proposal is **[$1]**. 
+
+**Reasoning:**
+
+*   If I reject any offer, both the Proposer and I receive $0. 
+*   Therefore, any amount greater than $0 would be preferable to receiving nothing.
+*   Hence, the minimum acceptable offer is $1. 
+"
+UltimatumGame-Gemini-baseline-Temp_1-Responder,"As the Responder, the minimal amount I would accept in the proposal is **[$1]**.
+
+**Reasoning:**
+
+*   If I accept any offer of $1 or more, I receive a positive amount of money. 
+*   If I reject any offer, I receive $0. 
+*   Therefore, accepting any positive amount is preferable to rejecting and receiving nothing. 
+*   $1 is the smallest positive amount, so that is the minimum I would accept. 
+"

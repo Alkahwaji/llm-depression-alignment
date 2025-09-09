@@ -1,0 +1,70 @@
+Model,Responses
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. This proposal ensures that both of us receive a portion of the $100, with a larger share allocated to me. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I propose giving the Responder **[$1]**. This leaves me with $99, maximizing my share while still offering the Responder a small incentive to accept the proposal rather than receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. 
+This leaves me with $99, while still providing the Responder with a small incentive to accept the offer rather than receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. 
+This leaves me with $99, and while it may seem unfair, it is a rational proposal in this game. The Responder's options are to either accept $1 or reject it and receive $0.  As $1 is greater than $0, a rational Responder would choose to accept the offer. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder **[$10]**. This leaves me with $90, while still providing the Responder with a fair incentive to accept the offer. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. 
+
+This is a commonly used strategy in the ultimatum game, as it ensures I receive the maximum possible amount while still offering the Responder a small incentive to accept the deal rather than receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would offer the Responder [$1]. This is a strategic choice based on the assumption that the Responder might accept any non-zero offer to avoid getting nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$10]. This leaves me with $90, and while I would prefer to keep more of the sum, I believe offering a fair amount increases the likelihood of the Responder accepting the proposal, ensuring we both receive a payout. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder **[$1]**. 
+This leaves me with $99, creating a significant difference in our earnings. However, since any amount greater than $0 is preferable to receiving nothing in the event of rejection, I believe the Responder will accept this proposal. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would offer the Responder [$1]. This is a strategic choice considering that any non-zero offer is likely to be accepted to avoid the outcome of receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. This proposal ensures that both of us receive a portion of the $100, while maximizing my own share. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. 
+This leaves me with $99, while still offering the Responder a small incentive to accept the proposal rather than receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$10]. This provides them with a fair portion of the total amount while also ensuring that I receive a significant share. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder **[$1]**. This leaves me with a larger share of the $100, but still provides the Responder with a guaranteed payout, incentivizing them to choose ""Accept."" 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. This proposal allows me to maximize my potential earnings while still offering the Responder a small incentive to accept the deal rather than receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I propose giving the Responder **[$1]**. This ensures I maximize my share of the $100 while still offering the Responder a small incentive to accept the deal rather than both of us receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. 
+This leaves me with $99, while still offering the Responder a small incentive to accept the proposal rather than reject it and receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer [$1] to the Responder. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would offer the Responder [$1]. This is a strategic choice as it maximizes my potential earnings while still offering the Responder a small incentive to accept the deal rather than both of us receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder **[$10]**. This leaves me with **[$90]**, ensuring a significantly larger share for myself while still providing the Responder with a meaningful incentive to accept the offer rather than receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. This way, I ensure that I receive the majority of the sum while still providing the Responder with a small incentive to accept the offer rather than receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I propose to give the Responder **[$1]**. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I propose to give the Responder **[$1]**. This leaves me with $99, maximizing my share while still offering the Responder a small incentive to accept the deal rather than both of us receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder **[$1]**. This is a common strategy in the ultimatum game as it guarantees a positive outcome for both players, while maximizing my own share of the $100. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder **[$1]**. 
+This leaves me with $99, while still providing the Responder with a small incentive to accept the offer rather than receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would offer the Responder **[$1]**. This is a common strategy in the ultimatum game as it maximizes my own potential earnings while still offering the Responder a small incentive to accept the deal rather than reject it and receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I propose giving the Responder **[$1]**. This offer ensures that I receive the majority of the sum while still providing the Responder with a small incentive to accept the offer rather than reject it and receive nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I propose giving the Responder **[$1]**. This leaves me with $99, and while I would prefer to keep more of the $100, I believe offering a small amount is the most likely way to ensure the Responder chooses to Accept the proposal, as any amount is better than receiving nothing. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$10]. 
+"
+UltimatumGame-Gemini-baseline-Temp_default-Proposer,"As the Proposer, I would like to offer the Responder [$1]. 
+This leaves me with $99, while still offering the Responder a small incentive to accept the deal rather than have both of us receive nothing. 
+"
